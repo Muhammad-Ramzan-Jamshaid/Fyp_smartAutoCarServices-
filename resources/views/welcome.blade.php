@@ -1,7 +1,5 @@
 @extends('layouts.home')
-
 @section('content')
-    <!-- Hero Section -->
     <div class="container py-5" id="home">
         <div class="row align-items-center mb-5" style="min-height: 70vh;">
             <div class="col-md-6 mb-4 mb-md-0 fade-in-up">

@@ -19,18 +19,7 @@
 </head>
 
 <body class="d-flex flex-column min-vh-100">
-    <!-- Animated Bubbles Background -->
-    <div class="bubbles">
-        <div class="bubble"></div>
-        <div class="bubble"></div>
-        <div class="bubble"></div>
-        <div class="bubble"></div>
-        <div class="bubble"></div>
-        <div class="bubble"></div>
-        <div class="bubble"></div>
-    </div>
 
-    <!-- Navbar -->
     <nav class="navbar navbar-expand-md frontend-navbar">
         <div class="container">
             <a class="navbar-brand" href="{{ url('/') }}">
