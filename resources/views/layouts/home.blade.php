@@ -19,7 +19,7 @@
 </head>
 
 <body class="d-flex flex-column min-vh-100">
-
+    <!-- Navbar -->
     <nav class="navbar navbar-expand-md frontend-navbar">
         <div class="container">
             <a class="navbar-brand" href="{{ url('/') }}">
